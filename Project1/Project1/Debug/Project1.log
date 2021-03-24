@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ka-s-\OneDrive\Desktop\Project1\Project1\CTD.h(53,26): warning C4566: символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ka-s-\OneDrive\Desktop\Project1\Project1\CTD.h(147,18): warning C4566: символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ka-s-\OneDrive\Desktop\Project1\Project1\Source.cpp(69,21): warning C4566: символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+C:\Users\ka-s-\OneDrive\Desktop\Project1\Project1\Source.cpp(219,25): warning C4566: символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+  Project1.vcxproj -> C:\Users\ka-s-\OneDrive\Desktop\Project1\Debug\Project1.exe
