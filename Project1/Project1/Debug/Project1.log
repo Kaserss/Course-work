@@ -1,0 +1,38 @@
+﻿  Source.cpp
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(55,29): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(55,19): warning C4309: аргумент: усечение константного значения
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(59,29): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(59,19): warning C4309: аргумент: усечение константного значения
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(63,30): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(63,19): warning C4309: аргумент: усечение константного значения
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(67,30): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(67,19): warning C4309: аргумент: усечение константного значения
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(71,30): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(71,19): warning C4309: аргумент: усечение константного значения
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(75,31): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Project1\CTD.h(75,19): warning C4309: аргумент: усечение константного значения
+  Project1.vcxproj -> C:\Users\ka-s-\OneDrive\Desktop\Бауманка\Project1\Debug\Project1.exe
